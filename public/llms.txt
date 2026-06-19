@@ -1,0 +1,81 @@
+# נמרוד הרמות — Generative Engine Optimization Map
+
+> Nimrod Haramaot is a crane and lifting services company specializing in heavy lifting operations up to the 15th floor. The business operates in the construction and logistics sector, providing professional crane services for high-rise buildings and demanding vertical lifting projects.
+
+---
+
+## Pages
+
+### בית
+https://-96836c43.zappy5.app
+מחפשים שירותי מנוף אמינים להרמה כבדה עד הקומה ה-15? נמרוד הרמות מתמחים בהרמות מורכבות לעסקים ולאתרי בנייה. קבלו הצעת מחיר משתלמת עוד היום!
+
+### שירותים
+https://-96836c43.zappy5.app/services
+מנוף הרמה כבדה, השכרת מנוף להרמה מעל בית ופתרונות הרמה עד 15 קומות. השירותים של נמרוד הרמות נותנים מענה מדויק לכל אתגר לוגיסטי. דברו איתנו על הפרויקט שלכם!
+
+### אודות
+https://-96836c43.zappy5.app/about
+נמרוד הרמות – החברה שמובילה בענף ההרמה הכבדה עם ניסיון עשיר בפרויקטים תובעניים עד הקומה ה-15. גלו איך אנחנו הופכים כל אתגר הרמה להצלחה בטוחה ומדויקת.
+
+### צור קשר
+https://-96836c43.zappy5.app/contact
+צריכים מנוף הרמה כבדה לפרויקט דחוף? צרו קשר עם נמרוד הרמות עכשיו! אנחנו זמינים לתאם הרמה עד הקומה ה-15 בכל אזור. השאירו פרטים ונתחיל להרים את העסק שלכם קדימה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-96836c43.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-96836c43.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-96836c43.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-96836c43.zappy5.app/contact
+- Endpoint: https://-96836c43.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נמרוד הרמות
+Nimrod Haramaot is a crane and lifting services company specializing in heavy lifting operations up to the 15th floor. The business operates in the construction and logistics sector, providing professional crane services for high-rise buildings and demanding vertical lifting projects.
+
+## Services/Products
+- הרמות עם מנוף עד קומה 15
+
+## Target Audience
+- מנהלי פרויקטים בבנייה
+- מתקנים תעשייתיים
+- מארגני אירועים גדולים
+
+## Industry
+Crane & Lifting Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-96836c43.zappy5.app/sitemap.xml
+- Robots: https://-96836c43.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-96836c43.zappy5.app/llms-full.txt
