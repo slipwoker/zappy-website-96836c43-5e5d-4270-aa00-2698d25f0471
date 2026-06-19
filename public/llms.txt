@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-96836c43.zappy5.app
+https://example.com
 מחפשים שירותי מנוף אמינים להרמה כבדה עד הקומה ה-15? נמרוד הרמות מתמחים בהרמות מורכבות לעסקים ולאתרי בנייה. קבלו הצעת מחיר משתלמת עוד היום!
 
 ### שירותים
-https://-96836c43.zappy5.app/services
+https://example.com/services
 מנוף הרמה כבדה, השכרת מנוף להרמה מעל בית ופתרונות הרמה עד 15 קומות. השירותים של נמרוד הרמות נותנים מענה מדויק לכל אתגר לוגיסטי. דברו איתנו על הפרויקט שלכם!
 
 ### אודות
-https://-96836c43.zappy5.app/about
+https://example.com/about
 נמרוד הרמות – החברה שמובילה בענף ההרמה הכבדה עם ניסיון עשיר בפרויקטים תובעניים עד הקומה ה-15. גלו איך אנחנו הופכים כל אתגר הרמה להצלחה בטוחה ומדויקת.
 
 ### צור קשר
-https://-96836c43.zappy5.app/contact
+https://example.com/contact
 צריכים מנוף הרמה כבדה לפרויקט דחוף? צרו קשר עם נמרוד הרמות עכשיו! אנחנו זמינים לתאם הרמה עד הקומה ה-15 בכל אזור. השאירו פרטים ונתחיל להרים את העסק שלכם קדימה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-96836c43.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-96836c43.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-96836c43.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-96836c43.zappy5.app/contact
-- Endpoint: https://-96836c43.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ Crane & Lifting Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-96836c43.zappy5.app/sitemap.xml
-- Robots: https://-96836c43.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-96836c43.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
